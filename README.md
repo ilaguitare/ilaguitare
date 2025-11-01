@@ -7,9 +7,8 @@ Welcome to my GitHub! I'm a passionate engineer and designer with a love for rob
 [![My Website](https://img.shields.io/badge/Visit-My%20Website-red?style=for-the-badge&logo=googlesites)](https://itharkazem.fr)
 
 ## 🏆 Achievements
-
-- Developed the first version of [**Art's Office website**](https://github.com/BDA-TSP-IMTBS/): [bda-imtbs-tsp.fr](https://bda-imtbs-tsp.fr) 🌐  
-- Member of **BDA** at IMTBS – explore the BDA GitHub here: [BDA-TSP-IMTBS](https://github.com/BDA-TSP-IMTBS/) 📚
+- Former **Vice President** of the **Robotics Association** at my school: [INTech Association](https://github.com/Association-INTech) 🤖  
+- Developed the first version of [**Art's Office**](https://github.com/BDA-TSP-IMTBS/) website : [bda-imtbs-tsp.fr](https://bda-imtbs-tsp.fr) 🌐  
 
 ## ⚡ Currently Working On
 
