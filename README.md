@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate engineer and designer with a love for rob
 ## ⚡ Currently Working On
 
 - **SO 101 Arm** – Developing a robotic arm with embedded control systems 🤖  
-  Check out the GitHub here: [SO 101 Arm](https://github.com/)  
+  Check out the GitHub here: [SO 101 Arm](https://github.com/TheRobotStudio/SO-ARM100)  
 - **Controlling a Mini Robot using an EMG Sensor** – Integrating muscle signal sensors to drive a small robot 💪🤖  
 - **Implementing Image Recognition Algorithms on Microcontrollers** – Optimizing image recognition for microcontrollers 🖼️⚡ (not as powerful as a computer)
 
