@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate engineer and designer with a love for robotics and creative tech projects. You can check out my personal portfolio here:
 
-[Visit my website](https://itharkazem.fr)
+[🌐 Visit my website](https://itharkazem.fr)
 
 I have experience in web development and have contributed to the student community. I was part of the **BDA** at IMTBS and developed their first website: [bda-imtbs-tsp.fr](https://bda-imtbs-tsp.fr). You can also explore the BDA GitHub here: [BDA-TSP-IMTBS](https://github.com/BDA-TSP-IMTBS/).
 
