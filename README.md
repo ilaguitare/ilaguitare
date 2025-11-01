@@ -1,4 +1,4 @@
-# Hi, I'm Ithar Kazem alias laguitare 🎸👋
+# Hi, I'm Ithar Kazem alias ilaguitare 🎸👋
 
 ## 👩‍💻 Ithar | Computer Science Engineer | Passionate about Robotics 🤖
 
